@@ -42,7 +42,6 @@ public class FelineTest {
         assertEquals(1, actualResult,  "Ожидаем 1 животное");
     }
 
-    //TODO: Параметризованные тесты должны быть вынесены в отдельный класс.
 
 
 }
